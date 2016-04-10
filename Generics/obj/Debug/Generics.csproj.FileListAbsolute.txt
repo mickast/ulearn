@@ -1,0 +1,5 @@
+c:\users\roman\documents\visual studio 2015\Projects\Generics\Generics\bin\Debug\Generics.exe.config
+C:\Users\roman\Documents\Visual Studio 2015\Projects\Generics\Generics\bin\Debug\Generics.exe
+C:\Users\roman\Documents\Visual Studio 2015\Projects\Generics\Generics\bin\Debug\Generics.pdb
+C:\Users\roman\Documents\Visual Studio 2015\Projects\Generics\Generics\obj\Debug\Generics.exe
+C:\Users\roman\Documents\Visual Studio 2015\Projects\Generics\Generics\obj\Debug\Generics.pdb
