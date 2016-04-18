@@ -1,0 +1,8 @@
+C:\Users\roman\Desktop\Galatov-master\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+C:\Users\roman\Desktop\Galatov-master\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+C:\Users\roman\Desktop\Galatov-master\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+C:\Users\roman\Desktop\Galatov-master\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+C:\Users\roman\Desktop\Galatov-master\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
+C:\Users\roman\Desktop\Galatov-master\Game\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+C:\Users\roman\Desktop\Galatov-master\Game\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+C:\Users\roman\Desktop\Galatov-master\Game\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
